@@ -13,7 +13,6 @@ plugins:
 
 author:
   name: "Monisha"
-  bio: "10 years turning complexity into clarity — and making products make sense."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
