@@ -14,4 +14,4 @@ across seven data sources, and led the team's shift to AI-powered
 documentation workflows.
 
 
-[See my work](/work){: .btn .btn--primary} [LinkedIn](https://www.linkedin.com/in/monisha-shanka-writer3421/){: .btn .btn--inverse}
+<a href="/work" class="btn btn--primary">See my work</a> <a href="https://www.linkedin.com/in/monisha-shanka-writer3421/" class="btn btn--inverse"><i class="fab fa-linkedin"></i> LinkedIn</a>
