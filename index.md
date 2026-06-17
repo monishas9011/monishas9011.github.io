@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Hi, I'm Monisha"
-author_profile: true
+author_profile: false
 ---
 
 <img src="/profile_pic.jpeg" alt="Monisha" width="150" style="border-radius: 50%; display: block; margin-bottom: 24px;" />

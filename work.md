@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Work"
-author_profile: true
+author_profile: false
 permalink: /work/
 ---
 
