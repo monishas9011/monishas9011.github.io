@@ -4,7 +4,7 @@ title: "Hi, I'm Monisha"
 author_profile: true
 ---
 
-<img src="profile_pic.jpeg" alt="Monisha" width="150" style="border-radius: 50%; display: block; margin-bottom: 24px;" />
+<img src="/profile_pic.jpeg" alt="Monisha" width="150" style="border-radius: 50%; display: block; margin-bottom: 24px;" />
 
 I build the documentation layer that grounds AI agents, becomes the source of truth your entire product scales on, and keeps every output accurate and on-brand.
 
