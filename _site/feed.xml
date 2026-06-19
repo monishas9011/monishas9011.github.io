@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-06-19T19:26:04+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Lead Technical Writer</subtitle><author><name>Monisha</name></author><entry><title type="html">Technical writers in the age of AI: we’re not done, we’re just getting started</title><link href="http://localhost:4000/thoughts/2026/06/19/technical-writers-in-the-age-of-ai.html" rel="alternate" type="text/html" title="Technical writers in the age of AI: we’re not done, we’re just getting started" /><published>2026-06-19T00:00:00+05:30</published><updated>2026-06-19T00:00:00+05:30</updated><id>http://localhost:4000/thoughts/2026/06/19/technical-writers-in-the-age-of-ai</id><content type="html" xml:base="http://localhost:4000/thoughts/2026/06/19/technical-writers-in-the-age-of-ai.html"><![CDATA[<p><img src="/assets/images/blog1-header.png" alt="Technical Writers in the Age of AI" style="width: 75%; display: block; margin: 0 auto 1.5em auto;" /></p>
+
+<p>I’ll be honest with you. When the AI wave started hitting, I was scared.</p>
+
+<p>I’ve been a technical writer for over a decade. Suddenly, everyone was saying: <em>“Hey, AI writes really well now. Isn’t that basically your job?”</em> I started noticing engineers and product managers writing their own documents, then just sending them to me for a quick review. And I thought: even that’s going to stop soon.</p>
+
+<p>That fear was real. But here’s what happened: the better AI got, the more clearly I could see what it <em>couldn’t</em> do.</p>
+
+<hr />
+
+<h2 id="technical-writing-was-never-just-writing">Technical writing was never just writing</h2>
+
+<p>This is what I had to learn, and honestly, it took AI to teach it to me.</p>
+
+<p>For years, I thought my job was about crafting the right sentences, making complex things readable. But that was never the <em>core</em> of it.</p>
+
+<p>The core was always the decision-making behind the writing.</p>
+
+<p><em>Why does this document need to exist?</em> Who is going to read it, and in what state of panic or confusion? Which warning saves a user from a 3am support call? AI can generate a thousand words in seconds. It cannot answer any of those questions.</p>
+
+<p>After years of sitting in cross-functional meetings, watching how documentation actually gets used, I carry institutional knowledge no model has access to. I know why we don’t structure things a certain way, because we tried it two years ago and it created a flood of tickets. I know what our users panic about at midnight. That’s not writing. That’s judgment.</p>
+
+<hr />
+
+<h2 id="where-ai-actually-helps-and-where-it-doesnt">Where AI actually helps and where it doesn’t</h2>
+
+<p>I use AI heavily in my work, and I want to be clear: I’m not anti-AI. I’m pro-knowing-what-you’re-doing.</p>
+
+<p><strong>AI is an incredible tool if you already know what you’re doing.</strong> If you have the experience, the context, the relationships, AI becomes a multiplier. It handles the mechanical first draft, sets up automations that previously ate up hours, and cuts repetitive formatting work. The result? I spend more time on strategy and identifying gaps, and less time on things that were never what made my role valuable.</p>
+
+<p>But here’s the flip side.</p>
+
+<p>If you depend on AI without the underlying experience, you’re in trouble. Not because AI will replace you, but because it will confidently produce work that <em>looks</em> right and <em>isn’t</em>. It’ll generate documentation that misses the point, structure content for the wrong audience, skip the warning that would have saved someone hours. And you won’t know, because you haven’t built the instincts to catch it.</p>
+
+<p>AI doesn’t know your users. It doesn’t know your product’s history. It doesn’t know that one edge case your engineering team quietly fixed six months ago.</p>
+
+<p><strong>You need the experience to direct AI well. That experience doesn’t come from prompting.</strong></p>
+
+<hr />
+
+<h2 id="the-traditional-tw-role-is-changing-and-thats-okay">The traditional TW role is changing, and that’s okay</h2>
+
+<p>If your current job looks like: get a knowledge transfer from engineering, convert it into a document, publish, maintain. That workflow <em>will</em> get automated. Parts of it already are.</p>
+
+<p>That’s not the end. That’s the signal to evolve.</p>
+
+<p>What makes a technical writer irreplaceable today:</p>
+
+<ul>
+  <li>Proactively identifying what the team needs before anyone asks</li>
+  <li>Running docs like a system: architecture, health, consistency</li>
+  <li>Identifying what can be automated using AI and actually building those automations</li>
+  <li>Writing for highly technical audiences: developers, engineers, and the systems they build</li>
+</ul>
+
+<p>And that last point matters more than people realize. End users who once needed step-by-step UI guides? AI agents are increasingly handling that for them. The documentation that matters more and more is what developers, engineers, and AI systems themselves need: API references, architecture docs, agent-readable content. To write for them well, you need to understand how they think, how systems are structured, even the fundamentals of how code works.</p>
+
+<hr />
+
+<h2 id="so-will-ai-replace-technical-writers">So, will AI replace technical writers?</h2>
+
+<p>No. Not if you’re doing more than AI can do.</p>
+
+<p>AI will replace the parts of the job that were always lower-value: the mechanical first draft, the rote formatting, the basic structure work.</p>
+
+<p>What it can’t replace is the human who knows something is wrong before they can articulate why. Who has sat with users, navigated cross-functional dynamics, made judgment calls about what belongs where and why.</p>
+
+<p>The floor of this job just got raised. And if you’re willing to rise with it, this is actually one of the best times to be a technical writer.</p>
+
+<hr />
+
+<p><em>These are my personal thoughts after 10+ years in technical writing. Next, I’ll be exploring how AI needs knowledge to function and why technical writers are the ones who provide it.</em></p>
+
+<p style="margin-top: 2em; font-weight: 600;">— Monisha</p>]]></content><author><name>Monisha</name></author><category term="thoughts" /><category term="technical-writing" /><category term="AI" /><category term="documentation" /><category term="career" /><summary type="html"><![CDATA[]]></summary></entry></feed>

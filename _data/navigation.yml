@@ -1,0 +1,5 @@
+main:
+  - title: "Work"
+    url: /work
+  - title: "Blog"
+    url: /blog

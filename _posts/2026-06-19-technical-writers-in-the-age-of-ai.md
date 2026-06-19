@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/blog1-header.png
 ---
 
-<img src="/assets/images/blog1-header.png" alt="Technical Writers in the Age of AI" style="width: 65%; display: block; margin: 0 auto 1.5em auto;">
+<img src="/assets/images/blog1-header.png" alt="Technical Writers in the Age of AI" style="width: 75%; display: block; margin: 0 auto 1.5em auto;">
 
 I'll be honest with you. When the AI wave started hitting, I was scared.
 
@@ -79,3 +79,5 @@ The floor of this job just got raised. And if you're willing to rise with it, th
 ---
 
 _These are my personal thoughts after 10+ years in technical writing. Next, I'll be exploring how AI needs knowledge to function and why technical writers are the ones who provide it._
+
+<p style="margin-top: 2em; font-weight: 600;">— Monisha</p>
