@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/blog1-header.png
 ---
 
-<img src="/assets/images/blog1-header.png" alt="Technical Writers in the Age of AI" style="width: 50%; display: block; margin: 0 auto 1.5em auto;">
+<img src="/assets/images/blog1-header.png" alt="Technical Writers in the Age of AI" style="width: 65%; display: block; margin: 0 auto 1.5em auto;">
 
 I'll be honest with you. When the AI wave started hitting, I was scared.
 
