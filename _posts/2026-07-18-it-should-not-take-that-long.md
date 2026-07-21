@@ -17,7 +17,7 @@ Stakeholders have started handing us their own documents (AI-generated write-ups
 
 ---
 
-## Step one: the document they gave us doesn't actually work
+## Step one: verifying the flow
 
 The first thing I do with any handoff, human-written or AI-generated, is replicate the flow myself. I open the product, I follow the steps, and almost every time, the sequential order in the document doesn't match what actually happens on screen. The feature behaves differently than described. A step is missing. Two steps are in the wrong order.
 
