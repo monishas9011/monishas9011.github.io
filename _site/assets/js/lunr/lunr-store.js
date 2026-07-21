@@ -12,7 +12,7 @@ var store = [{
         "teaser": "/assets/images/blog2-header.png"
       },{
         "title": "\"It shouldn't take that long\" — what's really happening on our end",
-        "excerpt":"We’re hearing this one a lot more lately. And I think I know why. Engineers and product managers have started handing us their own documents (AI-generated write-ups, screenshots included) and saying, essentially, “here you go.” And sure, if the job were to take that document and hit Publish, they’d be...","categories": ["thoughts"],
+        "excerpt":"We’re hearing this one a lot more lately. And I think I know why. Stakeholders have started handing us their own documents (AI-generated write-ups, screenshots included) and saying, essentially, “here you go.” And sure, if the job were to take that document and hit Publish, they’d be right. It wouldn’t...","categories": ["thoughts"],
         "tags": ["technical-writing","documentation","career","AI"],
         "url": "/thoughts/2026/07/18/it-should-not-take-that-long.html",
         "teaser": "/assets/images/blog3-header.png"

@@ -13,7 +13,7 @@ header:
 
 We're hearing this one a lot more lately. And I think I know why.
 
-Engineers and product managers have started handing us their own documents (AI-generated write-ups, screenshots included) and saying, essentially, "here you go." And sure, if the job were to take that document and hit Publish, they'd be right. It wouldn't take long at all. But publishing is where our job begins, not ends.
+Stakeholders have started handing us their own documents (AI-generated write-ups, screenshots included) and saying, essentially, "here you go." And sure, if the job were to take that document and hit Publish, they'd be right. It wouldn't take long at all. But publishing is where our job begins, not ends.
 
 ---
 
@@ -59,7 +59,7 @@ Then, after the PII check and the currency check: do we even need this many scre
 
 ## The work that lives between the steps
 
-There's the translation work: taking what engineers know deeply, what PMs want to say, and what users actually need, and finding the sentence that serves all three without lying to any of them.
+There's the translation work: taking what stakeholders know deeply, what they want to say, and what users actually need, and finding the sentence that serves all three without lying to any of them.
 
 And there's the governance work: making sure this new doc doesn't contradict the three existing docs about the same topic, that the terminology is consistent, and that the screenshots don't show a UI that was deprecated in Q2.
 
