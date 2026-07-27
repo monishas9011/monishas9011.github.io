@@ -55,10 +55,10 @@ That's not a workaround. That's the design.
 
 I need AI. It makes me faster and sharper. But AI needs me to provide the knowledge it learns from, give it the right context, direct it toward the right problem, and apply the judgment it cannot.
 
-As AI takes on more work, the humans who know how to direct it well become more valuable — not less. The knowledge systems that power AI don't build themselves. The agents that automate work don't design themselves.
+As AI takes on more work, the humans who know how to direct it well become more valuable, not less. The knowledge systems that power AI don't build themselves. The agents that automate work don't design themselves.
 
 They need us. They always will.
 
-_These are my personal thoughts after a decade in documentation and now working alongside AI every day. Next, I'll be writing about what it means to write for AI systems — and why it's becoming one of the most important skills in the field._
+_These are my personal thoughts after a decade in documentation and now working alongside AI every day. Next, I'll be writing about what it means to write for AI systems, and why it's becoming one of the most important skills in the field._
 
 <p style="margin-top: 2em; font-weight: 600;">Monisha</p>

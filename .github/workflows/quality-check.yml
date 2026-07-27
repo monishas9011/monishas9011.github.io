@@ -1,0 +1,73 @@
+name: Blog Quality Check
+
+on:
+  push:
+    paths:
+      - "_posts/**"
+      - "assets/**"
+  pull_request:
+    paths:
+      - "_posts/**"
+      - "assets/**"
+
+jobs:
+  autofix-and-check:
+    name: Auto-fix and quality check
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          # Needed so git push in this job works
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install Pillow vaderSentiment pyyaml
+
+      - name: Run auto-fixer
+        run: python scripts/autofix.py
+
+      - name: Commit auto-fixes (if any)
+        run: |
+          git config user.name "Quality Bot"
+          git config user.email "quality-bot@github.com"
+          git diff --quiet && echo "Nothing to commit" || (
+            git add _posts/
+            git commit -m "Auto-fix: em dashes and trailing whitespace [skip ci]"
+            git push
+          )
+
+      - name: Run quality check
+        run: python scripts/quality_check.py
+
+  link-check:
+    name: Check external links
+    runs-on: ubuntu-latest
+    continue-on-error: true
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install markdown-link-check
+        run: npm install -g markdown-link-check
+
+      - name: Check links in posts
+        run: |
+          find _posts -name "*.md" | while read file; do
+            echo "Checking links in $file"
+            markdown-link-check "$file" --config .mlc-config.json
+          done
