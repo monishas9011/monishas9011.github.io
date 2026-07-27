@@ -1,6 +1,6 @@
 ---
 layout: single
-title: '"It shouldn''t take that long" — what''s really happening on our end'
+title: '"It shouldn''t take that long": what''s really happening on our end'
 date: 2026-07-18
 categories: [thoughts]
 tags: [technical-writing, documentation, career, AI]

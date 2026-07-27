@@ -1,7 +1,9 @@
 {
   "ignorePatterns": [
     { "pattern": "^http://localhost" },
-    { "pattern": "^mailto:" }
+    { "pattern": "^mailto:" },
+    { "pattern": "^/assets/" },
+    { "pattern": "^/images/" }
   ],
   "timeout": "10s",
   "retryOn429": true,

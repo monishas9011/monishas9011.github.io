@@ -97,9 +97,9 @@ def check_front_matter_fields(filepath, fm):
 
 
 def check_em_dashes(filepath, lines):
-    """Em dashes (—) should not appear in posts."""
+    """Em dashes (—) should not appear in posts. Skips HTML tag lines (e.g. — Monisha signature)."""
     for i, line in enumerate(lines, 1):
-        if "—" in line:
+        if "—" in line and not re.match(r"\s*<", line):
             fail(filepath, "Em dash", "Em dash (—) found — use a regular hyphen or reword", line=i)
 
 
