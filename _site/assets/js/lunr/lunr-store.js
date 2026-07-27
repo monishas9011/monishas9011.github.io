@@ -22,4 +22,10 @@ var store = [{
         "tags": ["technical-writing","documentation","career","AI"],
         "url": "/thoughts/2026/07/18/it-should-not-take-that-long.html",
         "teaser": "/assets/images/blog3-header.png"
+      },{
+        "title": "The data technical writers should be paying attention to",
+        "excerpt":"Documentation impact has always been hard to quantify, but the data to prove it exists. You just need to know where to look and what it is connected to. Here are the metrics worth tracking, and why each one matters beyond the docs team. Failed searches, your backlog already written...","categories": ["thoughts"],
+        "tags": ["technical-writing","data","documentation","metrics","career"],
+        "url": "/thoughts/2026/07/27/the-data-technical-writers-should-watch.html",
+        "teaser": "/assets/images/blog4-header.png"
       }]
