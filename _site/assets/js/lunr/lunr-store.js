@@ -22,4 +22,10 @@ var store = [{
         "tags": ["technical-writing","data","documentation","metrics","career"],
         "url": "/thoughts/2026/07/27/the-data-technical-writers-should-watch.html",
         "teaser": "/assets/images/blog4-header.png"
+      },{
+        "title": "Meet Ciara, my personal assistant",
+        "excerpt":"No, I did not get one. Ciara is my work log agent I set up to track everything I work on during the week, synthesise it, and drop it into my notes every Friday. Named her, gave her instructions, connected her to my tools. She’s not a person but she...","categories": ["thoughts"],
+        "tags": ["technical-writing","AI","productivity","MCP","claude-code"],
+        "url": "/thoughts/2026/08/19/meet-ciara-my-personal-assistant.html",
+        "teaser": "/assets/images/blog5-header.png"
       }]
