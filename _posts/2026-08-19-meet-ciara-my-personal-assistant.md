@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Meet Ciara, my personal assistant"
+title: "Meet Ciara, my personal assistant(agent)"
 date: 2026-08-19
 categories: [thoughts]
 tags: [technical-writing, AI, productivity, MCP, claude-code]
