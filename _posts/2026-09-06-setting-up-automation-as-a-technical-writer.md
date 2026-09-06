@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Setting up automation as a technical writer: where to start"
+title: "Agentic automation for technical writers: where to start"
 date: 2026-09-06
 categories: [thoughts]
 tags: [technical-writing, automation, docs-as-code, MCP, claude-code]
@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/blog6-header.png
 ---
 
-<img src="/assets/images/blog6-header.png" alt="Setting Up Automation as a Technical Writer" style="width: 75%; display: block; margin: 0 auto 1.5em auto;">
+<img src="/assets/images/blog6-header.png" alt="Agentic automation for technical writers" style="width: 75%; display: block; margin: 0 auto 1.5em auto;">
 
 Every technical writer has a moment where they think, "*didn't I just do this exact thing last week?*" Formatting checks before every publish, hunting down broken links after every release, confirming which articles reference a term that just changed. None of it is hard, it's just the same motion, over and over, and it quietly eats the hours you meant to spend actually writing.
 
