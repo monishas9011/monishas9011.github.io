@@ -11,7 +11,7 @@ header:
 
 <img src="/assets/images/blog6-header.png" alt="Setting Up Automation as a Technical Writer" style="width: 75%; display: block; margin: 0 auto 1.5em auto;">
 
-Every technical writer has a moment where they think, "*didn't I just do this exact thing last week?*" Formatting checks before every publish. Hunting down broken links after every release. Confirming which articles reference a term that just changed. None of it is hard — it's just the same motion, over and over, and it quietly eats the hours you meant to spend actually writing.
+Every technical writer has a moment where they think, "*didn't I just do this exact thing last week?*" Formatting checks before every publish, hunting down broken links after every release, confirming which articles reference a term that just changed. None of it is hard — it's just the same motion, over and over, and it quietly eats the hours you meant to spend actually writing.
 
 The good news: most of these moments are automatable. The hard part isn't the tooling — it's knowing *which* task is worth automating in the first place.
 
