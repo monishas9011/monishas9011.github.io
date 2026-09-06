@@ -28,4 +28,10 @@ var store = [{
         "tags": ["technical-writing","AI","productivity","MCP","claude-code"],
         "url": "/thoughts/2026/08/19/meet-ciara-my-personal-assistant.html",
         "teaser": "/assets/images/blog5-header.png"
+      },{
+        "title": "Setting Up Automation as a Technical Writer: Where to Start",
+        "excerpt":"Every technical writer has a moment where they think, “didn’t I just do this exact thing last week?” Formatting checks before every publish, hunting down broken links after every release, confirming which articles reference a term that just changed. None of it is hard — it’s just the same motion,...","categories": ["thoughts"],
+        "tags": ["technical-writing","automation","docs-as-code","MCP","claude-code"],
+        "url": "/thoughts/2026/09/06/setting-up-automation-as-a-technical-writer.html",
+        "teaser": "/assets/images/blog6-header.png"
       }]
