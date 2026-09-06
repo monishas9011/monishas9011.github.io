@@ -88,6 +88,18 @@ permalink: /work/
 <div class="grid">
 
   <div class="card" onclick="toggle(this)">
+    <div class="card-tag">API</div>
+    <div class="card-title">API Reference Docs <span class="arrow">↓</span></div>
+    <div class="card-desc">Partnered with engineering on API reference documentation — endpoints, authentication, error handling — validating each against real API behavior, not just written specs. Turned recurring usability gaps into direct input for API design decisions.</div>
+  </div>
+
+  <div class="card" onclick="toggle(this)">
+    <div class="card-tag">MCP</div>
+    <div class="card-title">MCP Documentation <span class="arrow">↓</span></div>
+    <div class="card-desc">Investigated and closed critical documentation gaps around Eightfold's MCP tools — coverage against the full API surface, access control, and safe usage guidelines. Restructured a single-product doc into a unified framework covering the entire platform.</div>
+  </div>
+
+  <div class="card" onclick="toggle(this)">
     <div class="card-tag">AI</div>
     <div class="card-title">Agentic Doc Generation <span class="arrow">↓</span></div>
     <div class="card-desc">Designed the workflow the team now runs at scale. Ran the experiments that proved bulk generation fails — documented four distinct failure modes — then proposed the distributed model that became the operating architecture. Restructured the delivery pipeline to run review and publishing in parallel, cutting the overall timeline.</div>
@@ -109,18 +121,6 @@ permalink: /work/
     <div class="card-tag">AI</div>
     <div class="card-title">Analytics Dashboards <span class="arrow">↓</span></div>
     <div class="card-desc">Built four Looker Studio dashboards across seven data sources — giving leadership its first live view of documentation health: content coverage, doc staleness, failed customer searches, team workload, and publishing velocity. Designed and automated using AI — dashboards update automatically every month, no manual effort required.</div>
-  </div>
-
-  <div class="card" onclick="toggle(this)">
-    <div class="card-tag">API</div>
-    <div class="card-title">API Reference Docs <span class="arrow">↓</span></div>
-    <div class="card-desc">Partnered with engineering on API reference documentation — endpoints, authentication, error handling — validating each against real API behavior, not just written specs. Turned recurring usability gaps into direct input for API design decisions.</div>
-  </div>
-
-  <div class="card" onclick="toggle(this)">
-    <div class="card-tag">MCP</div>
-    <div class="card-title">MCP Documentation <span class="arrow">↓</span></div>
-    <div class="card-desc">Investigated and closed critical documentation gaps around Eightfold's MCP tools — coverage against the full API surface, access control, and safe usage guidelines. Restructured a single-product doc into a unified framework covering the entire platform.</div>
   </div>
 
   <div class="card" onclick="toggle(this)">
