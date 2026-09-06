@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Setting Up Automation as a Technical Writer: Where to Start"
+title: "Setting up automation as a technical writer: where to start"
 date: 2026-09-06
 categories: [thoughts]
 tags: [technical-writing, automation, docs-as-code, MCP, claude-code]
