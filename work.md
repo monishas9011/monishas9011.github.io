@@ -112,6 +112,18 @@ permalink: /work/
   </div>
 
   <div class="card" onclick="toggle(this)">
+    <div class="card-tag">API</div>
+    <div class="card-title">API Reference Docs <span class="arrow">↓</span></div>
+    <div class="card-desc">Partnered with engineering on API reference documentation — endpoints, authentication, error handling — validating each against real API behavior, not just written specs. Turned recurring usability gaps into direct input for API design decisions.</div>
+  </div>
+
+  <div class="card" onclick="toggle(this)">
+    <div class="card-tag">MCP</div>
+    <div class="card-title">MCP Documentation <span class="arrow">↓</span></div>
+    <div class="card-desc">Investigated and closed critical documentation gaps around Eightfold's MCP tools — coverage against the full API surface, access control, and safe usage guidelines. Restructured a single-product doc into a unified framework covering the entire platform.</div>
+  </div>
+
+  <div class="card" onclick="toggle(this)">
     <div class="card-tag">Strategy</div>
     <div class="card-title">Interactive AI Doc Layer <span class="arrow">↓</span></div>
     <div class="card-desc">Pitched a strategic vision for treating the documentation portal like a product — roadmap, measurement, and iteration cycles tied to customer usage patterns. The pitch was absorbed into a larger AI initiative I'm currently building. Details coming soon.</div>
