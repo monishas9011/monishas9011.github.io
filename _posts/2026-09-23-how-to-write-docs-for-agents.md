@@ -26,7 +26,7 @@ Here's what actually changes when you write for that reader too.
 
 ## How I actually found this out
 
-I stumbled onto this by accident, looking into `llms.txt`, a format sites now publish specifically so agents can read them efficiently. Reading the spec, I went and checked my own site to see how far behind I was.
+I stumbled onto this looking into `llms.txt`, a format sites now publish specifically so agents can read them efficiently. Reading the spec, I went and checked my own site to see how far behind I was.
 
 I wasn't behind. I already had a `feed.xml`, a `sitemap.xml`, and structured metadata on every page: a clean, structured list of everything I've published, no rendering or guessing required. I'd set all of it up months ago for SEO and so RSS readers could subscribe to my posts. I never once thought about agents when I did it. Turns out a feed reader and an agent want the exact same thing: a plain list of what exists, not a page they have to parse to figure it out. `llms.txt` is solving a problem RSS solved decades ago. I already had the fix running in the background.
 
