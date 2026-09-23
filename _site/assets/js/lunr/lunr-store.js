@@ -34,4 +34,10 @@ var store = [{
         "tags": ["technical-writing","automation","docs-as-code","MCP","claude-code"],
         "url": "/thoughts/2026/09/06/setting-up-automation-as-a-technical-writer.html",
         "teaser": "/assets/images/blog6-header.png"
+      },{
+        "title": "How to write docs for agents",
+        "excerpt":"Somewhere in the last year, our audience quietly changed. It’s not just people opening our docs anymore, it’s agents. Claude Code answering a question by fetching a page. A RAG pipeline pulling one paragraph out of context. A support bot summarizing a policy doc in half a second. If your...","categories": ["thoughts"],
+        "tags": ["technical-writing","AI","agents","docs-as-code"],
+        "url": "/thoughts/2026/09/23/how-to-write-docs-for-agents.html",
+        "teaser": "/assets/images/blog7-header.png"
       }]
