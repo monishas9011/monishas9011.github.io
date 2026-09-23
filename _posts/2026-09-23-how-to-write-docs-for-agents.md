@@ -22,7 +22,7 @@ Here's what actually changes when you write for that reader too.
 - **Use descriptive links, not "click here."** An agent following a link needs the link text to *be* the description.
 - **Reach for structure over prose.** Tables, steps, code blocks: agents pattern-match structure far more reliably than they parse dense paragraphs for the same fact.
 - **Cut the marketing language.** "Seamlessly," "powerful," "game-changing" is noise an agent has to filter past to find the actual fact.
-- **Publish a manifest, not just pages.** Formats like `llms.txt` give agents an explicit index instead of making them infer structure by crawling.
+- **Publish a manifest, not just pages.** Formats like `llms.txt` give agents an explicit index instead of making them infer structure by crawling. [Browse sites already publishing one](https://directory.llmstxt.cloud/) to see what a good one looks like.
 
 ## How I actually found this out
 
