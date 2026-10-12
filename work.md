@@ -90,13 +90,25 @@ permalink: /work/
   <div class="card" onclick="toggle(this)">
     <div class="card-tag">API</div>
     <div class="card-title">API Reference Docs <span class="arrow">↓</span></div>
-    <div class="card-desc">Partnered with engineering on API reference documentation — endpoints, authentication, error handling — validating each against real API behavior, not just written specs. Turned recurring usability gaps into direct input for API design decisions.</div>
+    <div class="card-desc">Authored the docs for the platform's built-in API workspace from scratch — a Postman-style interface for configuring requests, authentication, headers, and responses inside bot workflows. Validated every endpoint against real API behavior, not just written specs, turning recurring usability gaps into direct input for API design decisions.</div>
   </div>
 
   <div class="card" onclick="toggle(this)">
     <div class="card-tag">MCP</div>
     <div class="card-title">MCP Documentation <span class="arrow">↓</span></div>
     <div class="card-desc">Investigated and closed critical documentation gaps around Eightfold's MCP tools — coverage against the full API surface, access control, and safe usage guidelines. Restructured a single-product doc into a unified framework covering the entire platform.</div>
+  </div>
+
+  <div class="card" onclick="toggle(this)">
+    <div class="card-tag">Integrations</div>
+    <div class="card-title">Integration Documentation <span class="arrow">↓</span></div>
+    <div class="card-desc">Authored end-to-end integration guides, each validated through hands-on testing. Configured authentication from scratch, executed every setup step in a live environment, and documented the exact admin experience. Each guide opens with the business case for the integration, establishing why a connection matters before explaining how to build it.</div>
+  </div>
+
+  <div class="card" onclick="toggle(this)">
+    <div class="card-tag">AI</div>
+    <div class="card-title">AI Documentation Quality System <span class="arrow">↓</span></div>
+    <div class="card-desc">Built an AI-powered quality system for 1,500+ articles — an audit agent that flags stale, duplicate, and PII content, cutting audit time from 65 days to 30 minutes. Reviewer feedback now feeds an LLM evaluation pilot.</div>
   </div>
 
   <div class="card" onclick="toggle(this)">
@@ -119,32 +131,38 @@ permalink: /work/
 
   <div class="card" onclick="toggle(this)">
     <div class="card-tag">AI</div>
-    <div class="card-title">Analytics Dashboards <span class="arrow">↓</span></div>
+    <div class="card-title">Documentation Health Dashboards <span class="arrow">↓</span></div>
     <div class="card-desc">Built four Looker Studio dashboards across seven data sources — giving leadership its first live view of documentation health: content coverage, doc staleness, failed customer searches, team workload, and publishing velocity. Designed and automated using AI — dashboards update automatically every month, no manual effort required.</div>
   </div>
 
   <div class="card" onclick="toggle(this)">
-    <div class="card-tag">Strategy</div>
-    <div class="card-title">Interactive AI Doc Layer <span class="arrow">↓</span></div>
-    <div class="card-desc">Pitched a strategic vision for treating the documentation portal like a product — roadmap, measurement, and iteration cycles tied to customer usage patterns. The pitch was absorbed into a larger AI initiative I'm currently building. Details coming soon.</div>
-  </div>
-
-  <div class="card" onclick="toggle(this)">
-    <div class="card-tag">Strategy</div>
-    <div class="card-title">Product Coverage <span class="arrow">↓</span></div>
-    <div class="card-desc">Led a team-wide documentation audit across 91 product areas, establishing gap mapping and data-driven prioritisation based on actual config usage data.</div>
-  </div>
-
-  <div class="card" onclick="toggle(this)">
-    <div class="card-tag">Strategy</div>
-    <div class="card-title">Self-Serve Coverage <span class="arrow">↓</span></div>
-    <div class="card-desc">Achieved 100% documentation coverage across all features available on the product UI — a company OKR — reducing support ticket volume directly.</div>
+    <div class="card-tag">Infrastructure</div>
+    <div class="card-title">Release Notes Automation <span class="arrow">↓</span></div>
+    <div class="card-desc">Engineered a Python pipeline connecting Jira and HelpJuice, using Playwright to verify every documented step against the live product. Release notes now ship the same day as each release, with zero post-publish corrections.</div>
   </div>
 
   <div class="card" onclick="toggle(this)">
     <div class="card-tag">Infrastructure</div>
     <div class="card-title">Measurement Frameworks <span class="arrow">↓</span></div>
     <div class="card-desc">Designed the first-ever in-app documentation measurement framework at Eightfold — tracking the full journey from content awareness to feature adoption using Pendo. Previously, effectiveness was measured by email open rates alone. Now it covers completion rate, drop-off analysis, and feature activation.</div>
+  </div>
+
+  <div class="card" onclick="toggle(this)">
+    <div class="card-tag">Strategy</div>
+    <div class="card-title">Product Coverage Initiative <span class="arrow">↓</span></div>
+    <div class="card-desc">Led a team-wide documentation audit across 91 product areas, mapping gaps and prioritising work based on actual config usage data.</div>
+  </div>
+
+  <div class="card" onclick="toggle(this)">
+    <div class="card-tag">Strategy</div>
+    <div class="card-title">Self-Service Enablement <span class="arrow">↓</span></div>
+    <div class="card-desc">Achieved 100% documentation coverage across all features available on the product UI — a company OKR — reducing support ticket volume directly.</div>
+  </div>
+
+  <div class="card" onclick="toggle(this)">
+    <div class="card-tag">Strategy</div>
+    <div class="card-title">Interactive AI Doc Layer <span class="arrow">↓</span></div>
+    <div class="card-desc">Pitched a strategic vision for treating the documentation portal like a product — roadmap, measurement, and iteration cycles tied to customer usage patterns. The pitch was absorbed into a larger AI initiative I'm currently building. Details coming soon.</div>
   </div>
 
   <div class="card" onclick="toggle(this)">
