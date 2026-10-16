@@ -40,4 +40,10 @@ var store = [{
         "tags": ["technical-writing","AI","agents","docs-as-code"],
         "url": "/thoughts/2026/09/23/how-to-write-docs-for-agents.html",
         "teaser": "/assets/images/blog7-header.png"
+      },{
+        "title": "Every redesign is an information architecture project",
+        "excerpt":"This sounds like an overstatement until you look at what actually happens. You cut a section. You decide not to build a page because something elsewhere already covers it. You leave a body of content on another team’s platform and link to it instead. Each of those changes what a...","categories": ["thoughts"],
+        "tags": ["technical-writing","information-architecture","documentation","strategy"],
+        "url": "/thoughts/2026/10/16/every-page-redesign-is-an-information-architecture-decision.html",
+        "teaser": "/assets/images/blog8-header.png"
       }]

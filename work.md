@@ -100,6 +100,12 @@ permalink: /work/
   </div>
 
   <div class="card" onclick="toggle(this)">
+    <div class="card-tag">Leadership</div>
+    <div class="card-title">Building Writing Teams <span class="arrow">↓</span></div>
+    <div class="card-desc">Led writing teams at Zoho, Yellow.ai, and Eightfold AI, growing from the first writer on a product to team lead. Interviewed, hired, and onboarded writers; mentored them through hands-on reviews; and delegated product ownership so each writer could work independently. Set up the intake, guidelines, and review processes that helped the teams run smoothly.</div>
+  </div>
+
+  <div class="card" onclick="toggle(this)">
     <div class="card-tag">Integrations</div>
     <div class="card-title">Integration Documentation <span class="arrow">↓</span></div>
     <div class="card-desc">Authored end-to-end integration guides, each validated through hands-on testing. Configured authentication from scratch, executed every setup step in a live environment, and documented the exact admin experience. Each guide opens with the business case for the integration, establishing why a connection matters before explaining how to build it.</div>
@@ -176,6 +182,7 @@ permalink: /work/
     <div class="card-title">Writing & Documentation <span class="arrow">↓</span></div>
     <div class="card-desc">Across Eightfold, Yellow.ai, and Zoho — 10 years building documentation governance as a system: the processes, guardrails, and maintenance workflows that keep documentation consistent, accurate, and scalable across teams and products.</div>
   </div>
+
 
 </div>
 
