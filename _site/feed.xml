@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-10-16T19:40:34+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Lead Technical Writer</subtitle><author><name>Monisha</name></author><entry><title type="html">Every redesign is an information architecture project</title><link href="http://localhost:4000/thoughts/2026/10/16/every-page-redesign-is-an-information-architecture-decision.html" rel="alternate" type="text/html" title="Every redesign is an information architecture project" /><published>2026-10-16T00:00:00+05:30</published><updated>2026-10-16T00:00:00+05:30</updated><id>http://localhost:4000/thoughts/2026/10/16/every-page-redesign-is-an-information-architecture-decision</id><content type="html" xml:base="http://localhost:4000/thoughts/2026/10/16/every-page-redesign-is-an-information-architecture-decision.html"><![CDATA[<p><img src="/assets/images/blog8-header.png" alt="Every page redesign is an Information Architecture decision" style="width: 75%; display: block; margin: 0 auto 1.5em auto;" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-11-05T11:37:30+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Home</title><subtitle>Lead Technical Writer</subtitle><author><name>Monisha</name></author><entry><title type="html">AI did the digging. I made the calls.</title><link href="http://localhost:4000/thoughts/2026/11/05/ai-did-the-digging-i-made-the-calls.html" rel="alternate" type="text/html" title="AI did the digging. I made the calls." /><published>2026-11-05T00:00:00+05:30</published><updated>2026-11-05T00:00:00+05:30</updated><id>http://localhost:4000/thoughts/2026/11/05/ai-did-the-digging-i-made-the-calls</id><content type="html" xml:base="http://localhost:4000/thoughts/2026/11/05/ai-did-the-digging-i-made-the-calls.html"><![CDATA[<p><img src="/assets/images/blog9-header.png" alt="AI did the digging. I made the calls." style="width: 75%; display: block; margin: 0 auto 1.5em auto;" /></p>
+
+<p>I spent two days working closely with an AI assistant, preparing for a stakeholder interview and writing a handful of messages to senior people. It was fast. It searched months of chat threads, rebuilt timelines, and drafted everything I asked for in seconds.</p>
+
+<p>Looking back, though, the parts that mattered most weren’t the ones the AI did. They were the moments I said “no, not like that.”</p>
+
+<h2 id="working-with-ai-when-the-decisions-are-yours">Working with AI when the decisions are yours</h2>
+
+<ul>
+  <li><strong>Check the question before the answer.</strong> AI answers the question it’s given. Make sure that’s still the question you’re asking.</li>
+  <li><strong>Cut scope out loud.</strong> AI adds things: extra questions, extra sections, extra context. Decide what belongs, and say so.</li>
+  <li><strong>Own the relationships.</strong> Tone, timing, and who gets a heads-up are judgment calls about people. AI doesn’t know them.</li>
+  <li><strong>Watch for repetition.</strong> AI doesn’t always know what you’ve already said to someone. You do.</li>
+</ul>
+
+<h2 id="what-that-looked-like-in-practice">What that looked like in practice</h2>
+
+<h3 id="the-interview-questions">The interview questions</h3>
+
+<p>I was preparing to interview a stakeholder. The first draft of questions had drifted from what I actually needed to learn. I narrowed the list myself and kept only the questions that served the goal.</p>
+
+<p>The AI’s draft introduction also repeated what I’d already told them. We cut it to two sentences.</p>
+
+<h3 id="two-projects-that-sounded-alike">Two projects that sounded alike</h3>
+
+<p>A day later, I had a small “wait a minute” moment. A colleague had also spoken with the same person I was talking to, but for a completely different reason. Same person, two conversations, two goals. If we blurred them, that person would be left wondering what each of us actually wanted.</p>
+
+<p>So I kept mine separate. I offered what I’d learned where it helped my colleague, and I asked before adding anything to their work. When I reached out to a senior colleague for a follow-up, I kept it a simple ask, not a rerun of a conversation we’d already had.</p>
+
+<p>None of that came from a prompt. It came from knowing the people.</p>
+
+<h2 id="what-i-took-away">What I took away</h2>
+
+<p>The AI was great at the digging: searching, rebuilding timelines, drafting. That saved me hours. But every turning point came from me noticing something was off. The question had drifted. The scope was too big. The tone was wrong for the person. A draft repeated what they’d already heard.</p>
+
+<p>If I had accepted every first draft, I’d have asked the wrong interview questions and confused two teams about two projects. The speed was the AI’s. The judgment was mine, and the judgment is what made the work count.</p>]]></content><author><name>Monisha</name></author><category term="thoughts" /><category term="technical-writing" /><category term="ai" /><category term="judgment" /><category term="stakeholder-management" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Every redesign is an information architecture project</title><link href="http://localhost:4000/thoughts/2026/10/16/every-page-redesign-is-an-information-architecture-decision.html" rel="alternate" type="text/html" title="Every redesign is an information architecture project" /><published>2026-10-16T00:00:00+05:30</published><updated>2026-10-16T00:00:00+05:30</updated><id>http://localhost:4000/thoughts/2026/10/16/every-page-redesign-is-an-information-architecture-decision</id><content type="html" xml:base="http://localhost:4000/thoughts/2026/10/16/every-page-redesign-is-an-information-architecture-decision.html"><![CDATA[<p><img src="/assets/images/blog8-header.png" alt="Every page redesign is an Information Architecture decision" style="width: 75%; display: block; margin: 0 auto 1.5em auto;" /></p>
 
 <p>This sounds like an overstatement until you look at what actually happens. You cut a section. You decide not to build a page because something elsewhere already covers it. You leave a body of content on another team’s platform and link to it instead. Each of those changes what a reader can find and how they find it. Each one is an architectural decision.</p>
 
