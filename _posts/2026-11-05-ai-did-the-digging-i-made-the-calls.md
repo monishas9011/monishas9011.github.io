@@ -9,11 +9,13 @@ header:
   teaser: /assets/images/blog9-header.png
 ---
 
+<img src="/assets/images/blog9-header.png" alt="AI did the digging. I made the calls." style="width: 75%; display: block; margin: 0 auto 1.5em auto;">
+
 I spent two days working closely with an AI assistant, preparing for a stakeholder interview and writing a handful of messages to senior people. It was fast. It searched months of chat threads, rebuilt timelines, and drafted everything I asked for in seconds.
 
 Looking back, though, the parts that mattered most weren't the ones the AI did. They were the moments I said "no, not like that."
 
-## Hot tips for working with AI when the decisions are yours
+## Working with AI when the decisions are yours
 
 - **Check the question before the answer.** AI answers the question it's given. Make sure that's still the question you're asking.
 - **Cut scope out loud.** AI adds things: extra questions, extra sections, extra context. Decide what belongs, and say so.
